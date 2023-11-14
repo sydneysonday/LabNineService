@@ -59,4 +59,4 @@ jobs:
           app-name: 'SydneyMonopoly'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_97BA981311B24568A57CC1206775EEAC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9B0EA1B156B34FE0816AD55625659EDA }}
