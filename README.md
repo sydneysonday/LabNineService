@@ -25,4 +25,11 @@ it&rsquo;s easier to auto-deploy a separate repo to Azure. For your team project
 data service, configure your Azure App Service to auto-deploy from the master/main branch 
 of your service repo. See the settings for this in the &ldquo;Deployment Center&rdquo; 
 on your Azure service dashboard.
- 
+
+
+ MY READ ME:
+ https://sydneymonopoly.azurewebsites.net/
+ https://sydneymonopoly.azurewebsites.net/players
+ https://sydneymonopoly.azurewebsites.net/players/1
+ https://sydneymonopoly.azurewebsites.net/players/-1
+ https://sydneymonopoly.azurewebsites.net/blob
